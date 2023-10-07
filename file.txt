@@ -9,3 +9,4 @@ sai kiran
 ashita
 poojitha
 activity = learning git
+activity = mastering git
