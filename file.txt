@@ -6,3 +6,4 @@ rama rao
 sudheer
 sai kiran
 ashita
+activity = mastering git
